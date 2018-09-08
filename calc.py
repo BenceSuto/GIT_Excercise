@@ -1,7 +1,8 @@
 while True:
     try:
-        oper = input("Welcome! Please choose an operation: + - * / or quit with q: ")
-    #Comment 1 komiklos
+        oper = input("Welcome! Please choose : + - * / or quit with q: ")
+    #Comment 1 komiasdklos
+    # Comment 2 komiklos
         if oper == "q":
             break
         elif oper == "+":
